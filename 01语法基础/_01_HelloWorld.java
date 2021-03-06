@@ -1,7 +1,7 @@
 
 /*
-jdk的作用:
-    jre是用来运行java程序的
+jvm: 垃圾回收机制
+jre: jre是用来运行java程序的
 
 jdk,jre,jvm的关系:
     jdk里面有jre, jre里面有jvm
