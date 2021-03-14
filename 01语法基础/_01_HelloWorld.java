@@ -1,17 +1,16 @@
 
 /*
-jvm: 垃圾回收机制
-jre: jre是用来运行java程序的
+    1 jvm: 垃圾回收机制
+    2 jre: jre是用来运行java程序的
 
-jdk,jre,jvm的关系:
-    jdk里面有jre, jre里面有jvm
+    3 jdk,jre,jvm的关系:
+        jdk里面有jre, jre里面有jvm
 
+    4 类名 和 文件名要相同
 */
 
-// 类名 和 文件名相同
-
 /**
- *文档注释
+ * 5 文档注释
  * 这是一个打印hello world的类
  * @author looeyWei
  * @version 1.0.0
